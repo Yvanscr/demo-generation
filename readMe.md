@@ -17,8 +17,8 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone git@github.com:Yvanscr/demo-generation.git
+    cd demo-generation
     ```
 
 2. Install the dependencies:
